@@ -4,7 +4,7 @@
 
 🔭 Atualmente estudando Power BI através de projetos práticos de visualização e storytelling com dados.
 
-🌱 Aprendendo continuamente sobre modelagem de dados, DAX e boas práticas de dashboards.
+🌱 Aprendendo continuamente sobre modelagem de dados, DAX, SQL, ETL e Data Warehouse.
 
 ---
 
@@ -12,6 +12,9 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-2C2C2C?style=for-the-badge&logo=microsoft&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-6E56CF?style=for-the-badge&logo=databricks&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-00758F?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
