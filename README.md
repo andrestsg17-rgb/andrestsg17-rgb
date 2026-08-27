@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o André 👋
 
-<!--
-**andrestsg17-rgb/andrestsg17-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise de Dados**, com foco em **Power BI**, **DAX** e modelagem de dados.
 
-Here are some ideas to get you started:
+🔭 Atualmente estudando Power BI através de projetos práticos de visualização e storytelling com dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Aprendendo continuamente sobre modelagem de dados, DAX e boas práticas de dashboards.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-2C2C2C?style=for-the-badge&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📌 Projetos em destaque
+
+- **[Dashboard Mercado de Ações (Power BI)](https://github.com/andrestsg17-rgb/dashboard-mercado-acoes-powerbi)** — Análise da performance de ações de 5 empresas (IBM, Microsoft, Tesla, Oracle e Walmart) entre 2022 e 2023, com medidas DAX customizadas e storytelling visual.
+
+---
+
+### 📫 Contato
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrestsg17@gmail.com)
+
+---
+
+<sub>Perfil em construção — novos projetos em breve! 🚀</sub>
